@@ -1,0 +1,18 @@
+#container_app{
+	border: 1px solid black;
+	width: 350px;
+	margin: auto;
+	margin-top: 10%;
+	text-align: center;
+}
+#button_dodaj{
+	margin-left: -10px;
+}
+.button_usun{
+	position: absolute;
+	right: 10px;
+
+}
+#div_list{
+	text-align: left;
+}
